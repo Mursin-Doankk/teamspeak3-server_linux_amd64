@@ -10,12 +10,12 @@
 ```php
   // lets cd to the location where we want to install our ts server
   cd /opt
-  wget http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxtar.bz2
+  git clone https://github.com/Mursin-Doankk/ts3server-crack.git
 ```
   
  ### Extract the archive.
   ```php
-    sudo tar -xvf teamspeak3-server_linux_amd64-xxxx.tar.bz2
+    sudo tar -xvf name folder.tar.bz2
   ```
   
 ### In the extracted folder, we have the conditions for using Teamspeak servers. It will be necessary to accept them by creating a file before starting the server.
