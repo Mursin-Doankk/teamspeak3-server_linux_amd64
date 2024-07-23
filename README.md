@@ -58,12 +58,13 @@ WantedBy=multi-user.target
 save the file  CTRL and X together, then Press Y).
 
 To enable it run at server boot:
-     systemctl enable ts3server.service
-
+```
+systemctl enable ts3server.service
+```
 Reboot the server and check if your TeamSpeak server is running:
-
+```
 systemctl status ts3server
-
+```
 if you have in the ouput Active: active (running) your server is ready!
 
 
